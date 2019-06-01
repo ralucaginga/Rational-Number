@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\raluca\desktop\faculta\an ii - mi - poo\teme\c++\numarrat\numarrat\source.cpp(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\raluca\desktop\faculta\an ii - mi - poo\teme\c++\numarrat\numarrat\source.cpp(25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\raluca\desktop\faculta\an ii - mi - poo\teme\c++\numarrat\numarrat\source.cpp(26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  NumarRat.vcxproj -> C:\Users\Raluca\Desktop\Faculta\An II - MI - POO\Teme\C++\NumarRat\Debug\NumarRat.exe
